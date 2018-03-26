@@ -1,0 +1,50 @@
+[
+	{
+		"id": "1",
+		"link": "./img/blue.png" 
+	},
+	{
+		"id": "2",
+		"link": "./img/red.png" 
+	},
+	{
+		"id": "3",
+		"link": "./img/orange.png" 
+	},
+	{
+		"id": "4",
+		"link": "./img/pink.png" 
+	},
+	{
+		"id": "5",
+		"link": "./img/cyan.png" 
+	},
+	{
+		"id": "6",
+		"link": "./img/yellow.png" 
+	},
+	{
+		"id": "7",
+		"link": "./img/purple.png" 
+	},
+	{
+		"id": "8",
+		"link": "./img/silver.png" 
+	},
+	{
+		"id": "9",
+		"link": "./img/gold.png" 
+	},
+	{
+		"id": "10",
+		"link": "./img/green.png" 
+	},
+	{
+		"id": "11",
+		"link": "./img/black.png" 
+	},
+	{
+		"id": "12",
+		"link": "./img/grey.png" 
+	}
+]
