@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/orange.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/purple.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/silver.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/gold.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/grey.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/pink.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/red.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/cyan.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/yellow.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/green.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/blue.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/black.png",
+    "clicked": false
+  }
+]
